@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt_samsung_total_cost">Total Cost of Samsung:</string>
+    <string name="txt_total_number_item_47">Total Number Item ID 47:</string>
+    <string name="txt_total_cost_category_7">Total Number Category ID 7:</string>
+    <string name="txt_total_cost_province_ontario">Total Cost of Ontario:</string>
+    <string name="txt_total_cost_country_usa">Total Cost of USA:</string>
+    <string name="txt_max_cost_building">Building with Max Cost:</string>
+</resources>
